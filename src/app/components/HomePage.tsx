@@ -15,6 +15,7 @@ import heroImage from "../../imports/ChatGPT_Image_7_maya_2026_g__20_14_16-1.png
 import backgroundImage from "../../imports/maxresdefault.jpg";
 import podcastImage1 from "../../imports/__________________.png";
 import podcastImage2 from "../../imports/_____________.png";
+import podkast3 from "../../imports/podkast3.png";
 
 const podcasts = [
   {
@@ -36,12 +37,11 @@ const podcasts = [
   },
   {
     id: "3",
-    title: "Пока пусто",
-    host: "...",
-    description: "Пока пусто",
+    title: "История возникноваения группы КВН",
+    host: "Павлова Анна, ИС-61",
+    description: "Студенческая шутка, которая переросла в легенду. В этом выпуске — вся подноготная создания команды КВН: от первой неудачной репризы до сцены в Сочи. ",
     duration: "0 мин",
-    image:
-      "https://images.unsplash.com/photo-1533379007656-3a10925da2e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RpbmclMjBoZWFkcGhvbmVzJTIwd29ya3NwYWNlfGVufDF8fHx8MTc3MTg0NTY4MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: podkast3,
   },
 ];
 

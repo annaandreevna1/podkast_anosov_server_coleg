@@ -25,6 +25,7 @@ import {
 import backgroundImage from "../../imports/maxresdefault.jpg";
 import podcastImage1 from "../../imports/__________________.png";
 import podcastImage2 from "../../imports/_____________.png";
+import podkast3 from "../../imports/podkast3.png";
 
 const podcastsData = [
   {
@@ -49,24 +50,22 @@ const podcastsData = [
     description: "— книга, которая появилась в нашем колледже. Как возникла идея? Кто работал над её созданием? Какие истории в неё вошли?",
     fullDescription: "— книга, которая появилась в нашем колледже. Как возникла идея? Кто работал над её созданием? Какие истории в неё вошли?",
     duration: "26 мин",
-    publishDate: "28 апреля 2026",
+    publishDate: "28 мая 2026",
     image: podcastImage2,
     videoUrl: "https://kinescope.io/vA6UUdAycKob1HVjQi5jzG",
     videoType: "kinescope.io",
   },
   {
     id: "3",
-    title: "Пока пусто",
-    host: "...",
-    description: "Пока пусто",
-    fullDescription: "Пока пусто",
+    title: "История возникноваения группы КВН",
+    host: "Павлова Анна, ИС-61",
+    description: "Студенческая шутка, которая переросла в легенду. В этом выпуске — вся подноготная создания команды КВН: от первой неудачной репризы до сцены в Сочи. ",
+    fullDescription: "Студенческая шутка, которая переросла в легенду. В этом выпуске — вся подноготная создания команды КВН: от первой неудачной репризы до сцены в Сочи. ",
     duration: "0 мин",
-    publishDate: "—",
-    image:
-      "https://images.unsplash.com/photo-1533379007656-3a10925da2e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxicm9hZGNhc3RpbmclMjBoZWFkcGhvbmVzJTIwd29ya3NwYWNlfGVufDF8fHx8MTc3MTg0NTY4MXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
-    videoUrl:
-      "",
-    videoType: "",
+    publishDate: "14 июня 2026",
+    image: podkast3,
+    videoUrl: "",
+    videoType: "kinescope.io",
   },
 ];
 
