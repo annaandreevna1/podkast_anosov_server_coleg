@@ -61,10 +61,10 @@ const podcastsData = [
     host: "Павлова Анна, ИС-61",
     description: "Студенческая шутка, которая переросла в легенду. В этом выпуске — вся подноготная создания команды КВН: от первой неудачной репризы до сцены в Сочи. ",
     fullDescription: "Студенческая шутка, которая переросла в легенду. В этом выпуске — вся подноготная создания команды КВН: от первой неудачной репризы до сцены в Сочи. ",
-    duration: "0 мин",
+    duration: "31 мин",
     publishDate: "14 июня 2026",
     image: podkast3,
-    videoUrl: "",
+    videoUrl: "https://kinescope.io/dGAyv1x7JUENZXd6QATYpP",
     videoType: "kinescope.io",
   },
 ];
